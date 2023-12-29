@@ -1,0 +1,23 @@
+Package: genericAnalysis
+Title: A Template Set Of scripts Used For My Analyses.
+Version: 0.0.1
+Authors@R: 
+    person("Alex", "Baker", , "alexbakercreates@gmail.com", role = c("aut", "cre", "cph"),
+           comment = c(
+           owner = "I maintain these scripts for personal and professional R analysis",
+           ORCID = "0009-0004-2844-9720"))))
+Description: The key intent of this "package" is to collate a lot of common functions and patterns I use for presenting and summarising results. It defines, documents and creates tests for these comment functions to allow me more assurances about how they work.
+License: MIT + file LICENSE
+URL: https://github.com/code-convenience-and-ideas/packTemplate,
+    https://code-convenience-and-ideas.github.io/packTemplate/
+BugReports:
+    https://github.com/code-convenience-and-ideas/packTemplate/issues
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+VignetteBuilder: knitr

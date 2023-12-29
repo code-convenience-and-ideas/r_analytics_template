@@ -1,0 +1,17 @@
+{"level":400,"timestamp":"2023-12-29 18:08:42","logger":"analytics","caller":"(shell)","msg":"Loading data from the databases"}
+{"level":400,"timestamp":"2023-12-29 18:12:20","logger":"analytics","caller":"(shell)","msg":"Loading data from the databases"}
+{"level":400,"timestamp":"2023-12-29 18:12:20","logger":"analytics","caller":"(shell)","msg":"Loading data from the databases"}
+{"level":400,"timestamp":"2023-12-29 18:12:22","logger":"analytics","caller":"(shell)","msg":"Finished loading data"}
+{"level":400,"timestamp":"2023-12-29 18:12:22","logger":"analytics","caller":"(shell)","msg":"Finished loading data"}
+{"level":400,"timestamp":"2023-12-29 18:12:23","logger":"analytics","caller":"(shell)","msg":"Cleaning data for downstream analysis"}
+{"level":400,"timestamp":"2023-12-29 18:12:23","logger":"analytics","caller":"(shell)","msg":"Cleaning data for downstream analysis"}
+{"level":400,"timestamp":"2023-12-29 18:12:25","logger":"analytics","caller":"(shell)","msg":"Finished cleaning data"}
+{"level":400,"timestamp":"2023-12-29 18:12:25","logger":"analytics","caller":"(shell)","msg":"Finished cleaning data"}
+{"level":400,"timestamp":"2023-12-29 18:12:26","logger":"analytics","caller":"(shell)","msg":"Performing analysis, visualisation, plotting etc of the data"}
+{"level":400,"timestamp":"2023-12-29 18:12:26","logger":"analytics","caller":"(shell)","msg":"Performing analysis, visualisation, plotting etc of the data"}
+{"level":400,"timestamp":"2023-12-29 18:12:27","logger":"analytics","caller":"(shell)","msg":"Finished data analysis"}
+{"level":400,"timestamp":"2023-12-29 18:12:27","logger":"analytics","caller":"(shell)","msg":"Finished data analysis"}
+{"level":400,"timestamp":"2023-12-29 18:12:28","logger":"analytics","caller":"(shell)","msg":"Performing model fitting"}
+{"level":400,"timestamp":"2023-12-29 18:12:28","logger":"analytics","caller":"(shell)","msg":"Performing model fitting"}
+{"level":400,"timestamp":"2023-12-29 18:12:29","logger":"analytics","caller":"(shell)","msg":"Finished model fitting"}
+{"level":400,"timestamp":"2023-12-29 18:12:29","logger":"analytics","caller":"(shell)","msg":"Finished model fitting"}
